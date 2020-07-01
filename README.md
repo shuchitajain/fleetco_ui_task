@@ -4,9 +4,9 @@ A new Flutter application.
 
 ## Screenshots
 
-![Alt text](https://github.com/shuchitajain/fleetcoTask/blob/master/lib/ss/flutter_01.png?raw=true)
+![image](https://github.com/shuchitajain/fleetcoTask/blob/master/lib/ss/flutter_01.png?raw=true)
 
-![Alt text](https://github.com/shuchitajain/fleetcoTask/blob/master/lib/ss/flutter_02.png?raw=true)
+![screenshot](https://github.com/shuchitajain/fleetcoTask/blob/master/lib/ss/flutter_02.png?raw=true)
 
 ![Alt text](https://github.com/shuchitajain/fleetcoTask/blob/master/lib/ss/flutter_03.png?raw=true)
 
