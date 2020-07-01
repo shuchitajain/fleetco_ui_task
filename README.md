@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Screenshots
 
-![image](https://github.com/shuchitajain/fleetcoTask/blob/master/lib/ss/flutter_01.png?raw=true)
+<img src = "https://github.com/shuchitajain/fleetcoTask/blob/master/lib/ss/flutter_01.png" height = "70">
 
 ![screenshot](https://github.com/shuchitajain/fleetcoTask/blob/master/lib/ss/flutter_02.png?raw=true)
 
